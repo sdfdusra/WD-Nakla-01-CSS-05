@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+}
+/* .boxWrapper{
+    height: 300px;
+    width: 500px;
+    background-color: blueviolet;
+} */
+/* .left{
+    height: 300px;
+    width: 250px;
+    background-color: red;
+    display: inline-block;
+    margin-right: -2px;
+}
+.right{
+    height: 300px;
+    width: 250px;
+    background-color: green;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    margin-left: -2px;
+} */
+
+/* 
+.naklaWrapper{
+    background-color: cadetblue;
+    padding: 10px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.uno_nakla{
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+} */
+
+
+/* .myTestWrapper{
+    padding: 10px;
+    width: 500px;
+    background-color: darkgoldenrod;
+    margin: 0px auto;
+}
+.imgUno{
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    padding: 5px;
+    border: 2px solid #222;
+    border-radius: 5px;
+    background-color: #fff;
+}
+body{
+    background: url("bg_main.gif") repeat-y scroll center top rgba(0, 0, 0, 0);
+}
+
+.boxOuter{
+    width: 500px;
+    background-color: indigo;
+    margin: 50px auto;
+    padding: 20px;
+}
+.cls{
+    clear: both;
+}
+.leftbox{
+    background-color: red;
+    width: 50%;
+    height: 400px;
+    float: right;
+}
+.rightbox{
+    background-color: green;
+    width: 50%;
+    height: 400px;
+    float: left;
+} */
+
+.boxToday{
+    width: 500px;
+    margin: auto;
+}
+.header{
+    background-color: #FD8300;
+    color: #fff;
+    padding: 30px 10px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.middle{
+    background-color: lawngreen;
+    height: 500px;
+}
+.middleLeft{
+    width: 60%;
+    background-color: #E5E1DE;
+    height: 500px;
+    float: left;
+}
+.middleRight{
+    width: 40%;
+    background-color: #fff;
+    height: 500px;
+    float: right;
+    padding-left: 10px;
+}
+.mrTop{
+    height: 200px;
+    background-color: #E5E1DE;
+}
+.mrCenter{
+    margin-top: 10px;
+    height: 140px;
+    background-color: #E5E1DE;
+}
+.mrBottom{
+    margin-top: 10px;
+    height: 140px;
+    background-color: #E5E1DE;
+}
+.footer{
+    background-color: #FD8300;
+    color: #fff;
+    padding: 30px 10px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
